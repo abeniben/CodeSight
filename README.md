@@ -1,6 +1,6 @@
 # CodeSight
 
-CodeSight is a streamlined platform for developers to share, review, and discuss code snippets. Built with React, Vite, and Supabase, it delivers secure user authentication, code submissions, reviews, likes, nested replies, and a mobile-responsive UI. Deployed at [codesight.vercel.app](https://codesight.vercel.app), this project showcases 15+ years of engineering expertise in crafting scalable, user-focused solutions.
+CodeSight is a wep app platform for developers to share, review, and discuss code snippets. Built with React, Vite, and Supabase, it delivers secure user authentication, code submissions, reviews, likes, nested replies, and a responsive UI. Deployed at [codesight.vercel.app](https://codesight.vercel.app).
 
 ## Features
 
